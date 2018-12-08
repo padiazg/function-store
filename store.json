@@ -11,8 +11,8 @@
   {
     "title": "Address Geocode",
     "description": "Get the coordinates of (geocode) an address",
-    "name": "google-geocode",
-    "image": "padiazg/google-geocode",
+    "name": "address-geocode",
+    "image": "padiazg/google-geocode:latest",
     "network": "func_functions",
     "repo_url": "https://github.com/padiazg/of-google-geocode",
     "readOnlyRootFilesystem": true
@@ -24,7 +24,10 @@
     "image": "padiazg/barcode-generator:latest",
     "network": "func_functions",
     "repo_url": "https://github.com/padiazg/of-barcode-generator",
-    "readOnlyRootFilesystem": true
+    "readOnlyRootFilesystem": true,
+    "labels": {
+      "com.openfaas.ui.ext": "json"
+    }
   },
   {
     "title": "Upcoming Events",
