@@ -7,5 +7,32 @@
     "network": "func_functions",
     "repo_url": "https://github.com/padiazg/of-loan-calculator",
     "readOnlyRootFilesystem": true
+  },
+  {
+    "title": "Address Geocode",
+    "description": "Allows you to get the coordinates of (geocode) an address",
+    "name": "address-geocode",
+    "image": "padiazg/of-google-geocode:latest",
+    "network": "func_functions",
+    "repo_url": "https://github.com/padiazg/of-google-geocode",
+    "readOnlyRootFilesystem": true
+  },
+  {
+    "title": "Barcode Generator",
+    "description": "Generates almost any kind of barcode",
+    "name": "barcode-generator",
+    "image": "padiazg/barcode-generator:latest",
+    "network": "func_functions",
+    "repo_url": "https://github.com/padiazg/of-barcode-generator",
+    "readOnlyRootFilesystem": true
+  },
+  {
+    "title": "Upcoming Events",
+    "description": "Shows OpenFaaS related upcoming events",
+    "name": "upcoming-events",
+    "image": "padiazg/upcoming-events:latest",
+    "network": "func_functions",
+    "repo_url": "https://github.com/padiazg/of-upcoming-events",
+    "readOnlyRootFilesystem": true
   }
 ]
