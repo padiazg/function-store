@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Loan Calculator",
+    "description": "A simple loan calculator",
+    "name": "loan-caclulator",
+    "image": "padiazg/loan-calculator:latest",
+    "network": "func_functions",
+    "repo_url": "https://github.com/padiazg/of-loan-calculator",
+    "readOnlyRootFilesystem": true
+  },
+]
