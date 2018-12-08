@@ -5,7 +5,7 @@ $ faas-cli store deploy loan-calculator --url https://raw.githubusercontent.com/
 
 # Address Geocode
 ```bash
-$ faas-cli store deploy address-geocode --url https://raw.githubusercontent.com/padiazg/function-store/master/store.json --gateway=http://localhost:31112
+$ faas-cli store deploy address-geocode --url https://raw.githubusercontent.com/padiazg/function-store/master/store.json --gateway=http://localhost:31112 --env <API_KEY>
 ```
 
 # Barcode Generator
