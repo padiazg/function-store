@@ -9,6 +9,15 @@
     "readOnlyRootFilesystem": true
   },
   {
+    "title": "Loan Calculator form",
+    "description": "A form for our loan calculator",
+    "name": "loan-calculator-form",
+    "image": "padiazg/loan-calculator-form:latest",
+    "network": "func_functions",
+    "repo_url": "https://github.com/padiazg/loan-calculator-form",
+    "readOnlyRootFilesystem": true
+  },
+  {
     "title": "Address Geocode",
     "description": "Get the coordinates of (geocode) an address",
     "name": "address-geocode",
@@ -36,6 +45,15 @@
     "image": "padiazg/upcoming-events:latest",
     "network": "func_functions",
     "repo_url": "https://github.com/padiazg/of-upcoming-events",
+    "readOnlyRootFilesystem": true
+  },
+  {
+    "title": "Upcoming Events DataSource",
+    "description": "Data source fo Upcoming Events funtion. Extracs events from community.md",
+    "name": "upcoming-events-json",
+    "image": "padiazg/upcoming-events-json:latest",
+    "network": "func_functions",
+    "repo_url": "https://github.com/padiazg/of-upcoming-events-json",
     "readOnlyRootFilesystem": true
   }
 ]
